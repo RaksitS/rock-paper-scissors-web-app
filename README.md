@@ -1,4 +1,4 @@
-## ﻿My First Interactive Web Game: Rock Paper Scissors
+## Interactive Web Game: Rock Paper Scissors
 I built this project to move beyond from static pages and practice how HTML, CSS, and JavaScript work together to create a functional user experience.
 
 ## What I learned from this practice project are:
@@ -11,4 +11,5 @@ I built this project to move beyond from static pages and practice how HTML, CSS
 - HTML5 (Structure)
 - CSS3 (Styling & Layout)
 - Vanilla JavaScript (Game Logic & DOM updates)
+
 
